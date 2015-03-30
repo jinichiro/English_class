@@ -1,5 +1,6 @@
 # English Class
 
-## My a learning habit
+## My a learning habit.
 
-### Learning for English grammer
+### 1.Learning for English grammer.
+・Junior high school level.
