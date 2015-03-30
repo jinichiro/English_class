@@ -1,5 +1,5 @@
-# English Class h1
+# English Class
 
-## My a learning habit h2
+## My a learning habit
 
-### Learning for English grammer  h3
+### Learning for English grammer
