@@ -1,0 +1,36 @@
+﻿接続詞(that/when/if)
+that(「～こと」「～ということ」「～と」)
+文を名詞の塊に変えることができる。
+He is a student → that he is a student
+彼は学生です。　　　　　　彼が学生であること
+「～こと」となったものは、knowやthinkという動詞の後ろに書いて、
+目的語として使うことができます。
+
+I know that he is a student.私は彼が学生であることを知っている。
+I think that he is a student.私は彼が学生であると思う。(※「~と」と訳すことがある)
+
+when(「～とき」)
+whenという接続詞は、分を副詞の塊に変えることができる。
+※副詞は動作がどのように行われているか。
+
+I come home → when I came home
+私は家に帰りました。　私が家に帰ったとき
+
+この「～とき」となったものは、もう一つの文の前や後ろに書くことができます。
+
+When I came home, my brother was watching TV.
+私が家に帰った時、弟はテレビを見ていた。
+My brother was watching TV when I came home.
+私が家に帰った時、弟はテレビを見ていた。
+※whenで始まる場合は、次の文の前に「,コンマ」が必要。
+
+if(「もし～ならば」])
+ifという接続詞は、文を副詞の塊にできる。
+It rains. → if it rains
+雨が降ります。　　もし雨が降るならば。
+
+これも後ろや前に文を作れる。
+It if rain, I'll stay home
+もし雨が降るならば、私は家にいます。
+I'll stay home if it rains.
+もし雨が降るならば、私は家にいます。
